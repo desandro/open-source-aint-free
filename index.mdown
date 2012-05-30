@@ -5,5 +5,28 @@ title: Presentation title
 
 ---
 
-# Hello world
+# Open-source ain't free
 
+## Intro
+
++ I'm David DeSandro
++ Tweet this sesh: [@desandro](http://twitter.com/desandro) _#vcon_
++ Day job: Front-end developer [nclud](http://nclud.com) in Washington DC
++ Soon to be at Twitter in NYC
++ Nights & weekends: open-source resources like [Masonry](http://masonry.desandro.com) and [Isotope](http://isotope.metafizzy.co)
+
+## Disclaimer
+
++ This is a story.
++ Not research.
++ I cannot guarantee any results.
++ But it's a good story, one worth sharing.
+
+## The ideal open-source side projects
+
++ You get to work on what excites you
++ Build and promote you
++ Great for marketing yourself
++ Community gets another tool for its toolkit
+
+## The problem
