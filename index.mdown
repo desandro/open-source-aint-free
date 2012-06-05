@@ -22,10 +22,12 @@ title: Presentation title
 + I cannot guarantee any results.
 + But it's a good story, one worth sharing.
 
+## 2008
+
 ## The ideal open-source side projects
 
 + You get to work on what excites you
-+ Build and promote you
++ Build and promote your personal 
 + Great for marketing yourself
 + Community gets another tool for its toolkit
 
