@@ -2,7 +2,7 @@ body {
   background: #FFF;
   color: #69E;
   font-family: 'jubilat', Clarendon LT Std, 'Hoefler Text', georgia, serif;
-  font-size: 18px;
+  font-size: 44px;
   line-height: 1.4;
   padding: 0;
   padding-bottom: 40%;
@@ -123,6 +123,7 @@ html:not(.preso-enabled) .directions {
 
 #options {
   position: fixed;
+  font-size: 18px;
   z-index: 100;
   background: hsla( 0, 0%, 100%, 0.85 );
   left: 0;

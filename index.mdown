@@ -7,9 +7,8 @@ title: Open-source ain't free
 
 # Open-source ain't free
 
-+ Tweet this sesh:
-+ _#vcon_
-+ [@desandro](http://twitter.com/desandro)
++ Follow along: [bit.ly/openaintfree](http://bit.ly/openaintfree)
++ Tweet this sesh: _#vcon_ [@desandro](http://twitter.com/desandro)
 
 ## I'm David DeSandro
 
@@ -50,6 +49,38 @@ How great is web development?
 
 How great is web development _economically_?
 
+## The value of _view-source_
+
+FREE
+
+## Free resources
+
+
+## Economic environment for development
+
++ Free as in money
++ Resources readily available
+
+People will make stuff
+
+## Side-projects
+
++ Modernizr
++ HTML5 Boilerplate
++ Twitter Bootstrap
+
+## Side projects are great!
+
++ Work on what excites you
++ Flex under-used muscles
++ Market yourself
++ Build and promote your personal brand
++ Community gets another tool for its toolkit
+
+Costs?
+
+Time
+
 ## Paying for books
 
 <div class="two-col clearfix">
@@ -74,17 +105,9 @@ How great is web development _economically_?
 ## Titans of open-source
 
 + jQuery
-+ Modernizr
-+ HTML5 Boilerplate
-+ Twitter Bootstrap
 
-## Side projects are great!
 
-+ Work on what excites you
-+ Flex under-used muscles
-+ Market yourself
-+ Build and promote your personal brand
-+ Community gets another tool for its toolkit
+
 
 ## Side projects now rule the web
 
