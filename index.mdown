@@ -1,23 +1,82 @@
 ---
 
 layout: presentation
-title: Presentation title
+title: Open-source ain't free
 
 ---
 
 # Open-source ain't free
 
-## Intro
++ Tweet this sesh:
++ _#vcon_
++ [@desandro](http://twitter.com/desandro)
 
-+ I'm David DeSandro
-+ Tweet this sesh: [@desandro](http://twitter.com/desandro) _#vcon_
-+ Day job: Front-end developer [nclud](http://nclud.com) in Washington DC
+## I'm David DeSandro
+
++ Day job: Front-end developer at [nclud](http://nclud.com) in Washington DC
 + Soon to be at Twitter in NYC
 
 ## Why I'm really here
 
-+ Nights & weekends: open-source resources like [Masonry](http://masonry.desandro.com) and [Isotope](http://isotope.metafizzy.co)
-+ Side projects, not part of my day job
++ Open-source resources
++ [Masonry](http://masonry.desandro.com)
++ [Isotope](http://isotope.metafizzy.co)
++ Nights & weekends
++ Not part of my day job
+
+## Today's subject(s)
+
+<div class="two-col clearfix">
+  <div class="col">
+    <p><code>&lt;development /&gt;</code></p>
+  </div>
+  <div class="col">
+    <p>Money</p>
+  </div>
+</div>
+
++ Time
++ Scarcity of resources
++ Economics
+
+## Seriously, people...
+
+How great is web development?
+
++ _Web Classic_
++ HTML
++ CSS
++ JavaScript
+
+How great is web development _economically_?
+
+## Paying for books
+
+<div class="two-col clearfix">
+  <div class="col">
+    <h3>College</h3>
+    <ul>
+      <li>$300 per semester</li>
+      <li>8 semesters</li>
+      <li>$2400 total</li>
+    </ul>
+  </div>
+  <div class="col">
+    <h3>Web</h3>
+    <ul>
+      <li>$0</li>
+    </ul>
+  </div>
+</div>
+
+
+
+## Titans of open-source
+
++ jQuery
++ Modernizr
++ HTML5 Boilerplate
++ Twitter Bootstrap
 
 ## Side projects are great!
 
@@ -29,9 +88,7 @@ title: Presentation title
 
 ## Side projects now rule the web
 
-+ Modernizr
-+ HTML5 Boilerplate
-+ Twitter Bootstrap
+
 
 ## So the story goes
 
@@ -64,7 +121,19 @@ Not quite
 
 "Hey, it's open-source. _You_ fix it."
 
-##
+## 
 
 
+    if ( filterVal == 'All' ) {
+      $('.hidden').fadeIn('slow').removeClass('hidden');
+    } else {
+      $('.reading-bug').each(function() {
+        if ( !$(this).hasClass(filterVal) ) {
+          $(this).fadeOut('normal').addClass('hidden');
+        } else {
+          $(this).fadeIn('slow').removeClass('hidden');
+        }
+      });
+    }
+    $('#reading-lst').masonry('reload');
 
