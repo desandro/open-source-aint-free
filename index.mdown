@@ -10,6 +10,8 @@ title: Open-source ain't free
 + Follow along: [bit.ly/openaintfree](http://bit.ly/openaintfree)
 + Tweet this sesh: _#vcon_ [@desandro](http://twitter.com/desandro)
 
+## Thanks, Drew
+
 ## I'm David DeSandro
 
 + Day job: Front-end developer at [nclud](http://nclud.com) in Washington DC
@@ -37,6 +39,8 @@ title: Open-source ain't free
 + Time
 + Scarcity of resources
 + Economics
+
+
 
 ## Seriously, people...
 
@@ -204,16 +208,84 @@ Where is the market for commercial front-end development resources?
 
 + Behing 
 
++ Those who needed support
++ Competent developers figure it out
+
++ Those who used support didn't just need Isotope support
++ They needed lower level help with JavaScript
+
+
 ## Pricing
 
 + Isotope released at $37
 + Fair price?
 + iOS >$1 = 'pricey'
+
+TODO Dark Sky app
+
 + But...
 + Contract developer for this = $1,000's
+
+WordPress premium theme
+icon set price
+wijmo
+mint
+
 
 ## How much is this worth?
 
 + Isotope development took 12 hours a week, 3 months
 + 14 weeks x 12 hours a weeks x $24 an hour
 + $4,032 estimated
+
+
+## Isotope
+
++ jQuery plugin
++ Animated filtering, sorting
++ Intelligent layouts like Masonry
++ Serious progressive enhancement
+
+Like pouring magic sauce on your listed content
+
+## Results
+
++ Selling Isotope made up 25% income in 2011
++ Able to pay off car loan and student loan
++ Impact on my quality of life
+
+
+## Making money as an open-source developer
+
++ Feels _sleazy_
++ 
+
+open-source != free
+
+## Putting a price on something
+
+Users have to make a value judgement
+
++ Free -> costs their time
++ Priced -> costs time and money
++ Something "tangible"
+
+"Is it worth it?"
+
+## 
+
++ Flattr
++ GitHub Donate button
++ PayPal donation
+
+Compass maintained by Chris Epstein, donationware
+
+## Post-talk disclaimer
+
++ 
+
+
+
+
+
+
