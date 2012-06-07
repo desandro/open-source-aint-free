@@ -182,6 +182,38 @@ Where is the market for commercial front-end development resources?
 
 ## As a commercial enterprise
 
-Legally exposed?
-Beholden to paying customers
-Can't rely on Laissez-faire open-source attitude
++ Legally exposed?
++ Beholden to paying customers
++ Can't rely on Laissez-faire open-source attitude
+
+## Where does money come from
+
++ Pulley App by Big Cartel
++ Hooks into PayPal
+
+## PayPal
+
++ Not friendly across the globe
++ Blocks IPs from some countries in the Mid-East
+
+## Offering Premium Support
+
++ I get $17
++ Customer gets to email me
++ 
+
++ Behing 
+
+## Pricing
+
++ Isotope released at $37
++ Fair price?
++ iOS >$1 = 'pricey'
++ But...
++ Contract developer for this = $1,000's
+
+## How much is this worth?
+
++ Isotope development took 12 hours a week, 3 months
++ 14 weeks x 12 hours a weeks x $24 an hour
++ $4,032 estimated
