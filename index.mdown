@@ -73,6 +73,8 @@ People will make stuff
 + HTML5 Boilerplate
 + Twitter Bootstrap
 
+Side-projects rule the web
+
 ## Side projects are great!
 
 + Work on what excites you
@@ -81,9 +83,112 @@ People will make stuff
 + Build and promote your personal brand
 + Community gets another tool for its toolkit
 
-Costs?
+## Personal experience with Masonry
 
-Time
++ First released in 2008
+
++ Linked by Andy Clarke
++ First save on Delicious by Jason Santa Maria 
++ Linked by Cameron Moll
+
+Happily ever after?
+
+## 
+
+Beware novice users
+
+They mean well
+
+Contacting author possibly not a last resort
+
+If you trying to implement something, and you don't have the skills as a developer, what other ways can you resolve a problem?
+
+Contact an expert.
+
+Free as in time to do so
+
+They mean well.
+
+"I just can't figure it out."
+
+## Jerkface open-soure attitude
+
+It's open-source,
+
+_you_ figure it out.
+
+
+## Economics of contacting authors to resolve issue
+
++ User takes 10 minutes to email author
++ Takes author 30 minutes to resolve issue
++ 40 minutes total
+
+vs
+
++ User takes 4 - Infinity hours to resolve issue
++ 4 - Infinity hours total
+
+Individually, each request is managable.
+
+But they begin to pile up.
+
+## Propagation of bad code
+
+The _dark side_ of view-source.
+
++ User contacts author
++ Author replies with "It's open source, _you_ figure it out"
++ User does figure it out!
++ Which code is going to be better?
++ Code supplied by the author?
++ Code written by the user who figured it out
+
+Sloppy code is okay
+
+Unless it spreads
+
+## Filtering code example
+
+### Masonry
+
+{% highlight javascript %}
+
+if ( filterVal == 'All' ) {
+  $('.hidden').fadeIn('slow').removeClass('hidden');
+} else {
+  $('.reading-bug').each(function() {
+    if ( !$(this).hasClass(filterVal) ) {
+      $(this).fadeOut('normal').addClass('hidden');
+    } else {
+      $(this).fadeIn('slow').removeClass('hidden');
+    }
+  });
+}
+$('#reading-lst').masonry('reload');
+
+{% endhighlight %}
+
+### Isotope
+
+{% highlight javascript %}
+
+var filterSelector = filterVal == 'All' ? '*' : '.' + filterVal;
+$('#reading-lst').isotope({ filter: filterSelector });
+
+{% endhighlight %}
+
+[jasonsantamaria.com](http://jasonsantamaria.com/reading)
+
+## Bad code propagates
+
+Author has an interest in providing good code everywhere
+
+Thus, author should help novice users
+
+But author will go CRAZY
+
+(Helping novice users doesn't scale)
 
 ## Paying for books
 
@@ -151,18 +256,7 @@ Not quite
 ## 
 
 
-    if ( filterVal == 'All' ) {
-      $('.hidden').fadeIn('slow').removeClass('hidden');
-    } else {
-      $('.reading-bug').each(function() {
-        if ( !$(this).hasClass(filterVal) ) {
-          $(this).fadeOut('normal').addClass('hidden');
-        } else {
-          $(this).fadeIn('slow').removeClass('hidden');
-        }
-      });
-    }
-    $('#reading-lst').masonry('reload');
+
 
 
 ## Other developers make money
