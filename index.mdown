@@ -160,3 +160,28 @@ Not quite
     }
     $('#reading-lst').masonry('reload');
 
+
+## Other developers make money
+
++ iOS App Store
++ WordPress premium themes
++ [Expression Engine Commercial Add-ons](http://devot-ee.com/add-ons/store)
++ [Icon](http://geomicons.com/) [packs](http://pictos.cc/)
+
+Where is the market for commercial front-end development resources?
+
+## Some pioneers
+
++ [FancyZoom](http://www.cabel.name/2008/02/fancyzoom-10.html) by Panic
++ [Wijmo](http://wijmo.com/)
++ [Shadowbox.js](http://www.shadowbox-js.com/#license)
++ [Impact JS Game Engine](http://impactjs.com/)
++ [View.js](http://finegoodsmarket.com/view/) by Rogie King
++ Plugins by [Nick Stakenburg](http://www.nickstakenburg.com/)
+
+
+## As a commercial enterprise
+
+Legally exposed?
+Beholden to paying customers
+Can't rely on Laissez-faire open-source attitude
