@@ -10,7 +10,7 @@ title: Open-source ain't free
 + Follow along: [bit.ly/openaintfree](http://bit.ly/openaintfree)
 + Tweet this sesh: _#vcon_ [@desandro](http://twitter.com/desandro)
 
-## Thanks, Drew
+## Thanks Drew
 
 ## I'm David DeSandro
 
@@ -75,6 +75,12 @@ People will make stuff
 
 Side-projects rule the web
 
+Most are free
+
+## Culture of free
+
++ Particular to front-end development
+
 ## Side projects are great!
 
 + Work on what excites you
@@ -86,14 +92,11 @@ Side-projects rule the web
 ## Personal experience with Masonry
 
 + First released in 2008
-
 + Linked by Andy Clarke
 + First save on Delicious by Jason Santa Maria 
 + Linked by Cameron Moll
 
-Happily ever after?
-
-## 
+## Happily ever after?
 
 Beware novice users
 
@@ -123,11 +126,13 @@ _you_ figure it out.
 + User takes 10 minutes to email author
 + Takes author 30 minutes to resolve issue
 + 40 minutes total
++ Issue resolved
 
 vs
 
-+ User takes 4 - Infinity hours to resolve issue
-+ 4 - Infinity hours total
++ User takes up to 4 to Infinity hours to resolve issue
++ Infinity hours total
++ Issue may not be resolved
 
 Individually, each request is managable.
 
@@ -140,13 +145,13 @@ The _dark side_ of view-source.
 + User contacts author
 + Author replies with "It's open source, _you_ figure it out"
 + User does figure it out!
-+ Which code is going to be better?
++ Whose code is going to be better?
 + Code supplied by the author?
-+ Code written by the user who figured it out
++ Code written by the user who figured it out?
 
 Sloppy code is okay
 
-Unless it spreads
+...unless it spreads
 
 ## Filtering code example
 
@@ -190,74 +195,47 @@ But author will go CRAZY
 
 (Helping novice users doesn't scale)
 
-## Paying for books
-
-<div class="two-col clearfix">
-  <div class="col">
-    <h3>College</h3>
-    <ul>
-      <li>$300 per semester</li>
-      <li>8 semesters</li>
-      <li>$2400 total</li>
-    </ul>
-  </div>
-  <div class="col">
-    <h3>Web</h3>
-    <ul>
-      <li>$0</li>
-    </ul>
-  </div>
-</div>
-
-
-
-## Titans of open-source
-
-+ jQuery
-
-
-
-
-## Side projects now rule the web
-
-
-
-## So the story goes
-
-+ Start as a nobody
-+ Create popular side-project
-+ Gain the status within web community
-+ Walk off into the sunset...
-
-## Happily ever after?
-
-Not quite
-
-## Managing success
+## Managing a successful project
 
 + Emails for support requests
 + Issues and pull-requests being added on GitHub
++ Stack Overflow
++ Tweets
 
-## Managing Masonry
+### Managing Masonry
 
-+ 8+ hours a week responding to support requests
++ 8+ hours a week
++ Updating docs
++ Adding features
++ Responding to support requests (ugh)
 
-## A matter of Economics
+## A matter of economics
 
 + Principles of scarcity
 + Availability of resources
 + There's only so many hours in the day
-+ After a side-project gets popular, what's the benefit of supporting it?
 
-### Laissez-faire open-source attitude
+## How valuable is my time?
 
-"Hey, it's open-source. _You_ fix it."
+### Instead of...
 
-## 
++ Work on what excites you
++ Flex under-used muscles
++ Market yourself
++ Build and promote your personal brand
++ Community gets another tool for its toolkit
 
+Why don't I put a price on this?
 
+## Putting a price on something
 
+Users have to make a value judgement
 
++ Free -> costs their time
++ Priced -> costs time and money
++ Something "tangible"
+
+"Is it worth it?"
 
 ## Other developers make money
 
@@ -266,16 +244,77 @@ Not quite
 + [Expression Engine Commercial Add-ons](http://devot-ee.com/add-ons/store)
 + [Icon](http://geomicons.com/) [packs](http://pictos.cc/)
 
-Where is the market for commercial front-end development resources?
+## Where's the market for front-end dev resources?
 
-## Some pioneers
++ Never prevent people from "stealing"
++ Because of _view-source_
+
+## Commercial front-end dev pioneers
 
 + [FancyZoom](http://www.cabel.name/2008/02/fancyzoom-10.html) by Panic
 + [Wijmo](http://wijmo.com/)
++ Plugins by [Nick Stakenburg](http://www.nickstakenburg.com/)
 + [Shadowbox.js](http://www.shadowbox-js.com/#license)
 + [Impact JS Game Engine](http://impactjs.com/)
 + [View.js](http://finegoodsmarket.com/view/) by Rogie King
-+ Plugins by [Nick Stakenburg](http://www.nickstakenburg.com/)
+
+Compass by Chris Epstein
+
+## Isotope
+
++ jQuery plugin
++ Animated filtering, sorting
++ Intelligent layouts like Masonry
++ Serious progressive enhancement
+
+Like pouring magic sauce on your listed content
+
+## Isotope as the product
+
++ Still open-source
++ [Available on GitHub](http://github.com/desandro/isotope/)
++ Adopt the FancyZoom license
++ One time licensing fee to use Isotope in a commercial project
+
+## Getting legit
+
++ GitHub donation
++ Flattr
++ Generic PayPal donation button
++ Donate to Modernizr
+
+Formed a company
+
+## Metafizzy
+
++ Proper legal entity
++ Super simple: filled out two forms
++ employers at nclud were okay with it
++ Metafizzy LLC
++ Legit company
++ What do companies do?
++ Make money
+
+## Logistics
+
++ [Pulley App](http://pulleyapp.com) by Big Cartel
++ Hooks into PayPal
++ Customer makes purchase
++ Customer receives an email with product attached
+
+## All the pieces
+
++ Product: Isotope
++ Distrubution: Pulley App
++ Legal: Metafizzy
+
+
+
+
+
+
+
+
 
 
 ## As a commercial enterprise
@@ -284,10 +323,6 @@ Where is the market for commercial front-end development resources?
 + Beholden to paying customers
 + Can't rely on Laissez-faire open-source attitude
 
-## Where does money come from
-
-+ Pulley App by Big Cartel
-+ Hooks into PayPal
 
 ## PayPal
 
@@ -333,14 +368,7 @@ mint
 + $4,032 estimated
 
 
-## Isotope
 
-+ jQuery plugin
-+ Animated filtering, sorting
-+ Intelligent layouts like Masonry
-+ Serious progressive enhancement
-
-Like pouring magic sauce on your listed content
 
 ## Results
 
@@ -356,15 +384,7 @@ Like pouring magic sauce on your listed content
 
 open-source != free
 
-## Putting a price on something
 
-Users have to make a value judgement
-
-+ Free -> costs their time
-+ Priced -> costs time and money
-+ Something "tangible"
-
-"Is it worth it?"
 
 ## 
 
@@ -380,6 +400,36 @@ Compass maintained by Chris Epstein, donationware
 
 
 
+## Paying for books
+
+<div class="two-col clearfix">
+  <div class="col">
+    <h3>College</h3>
+    <ul>
+      <li>$300 per semester</li>
+      <li>8 semesters</li>
+      <li>$2400 total</li>
+    </ul>
+  </div>
+  <div class="col">
+    <h3>Web</h3>
+    <ul>
+      <li>$0</li>
+    </ul>
+  </div>
+</div>
 
 
 
+
+## etc
+
+Price allows non-technical users to contribute to the project
+
+People want to be invested in the products and services they enjoy
+
+orkposters
+
+### Laissez-faire open-source attitude
+
+"Hey, it's open-source. _You_ fix it."
