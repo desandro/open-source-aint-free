@@ -19,9 +19,18 @@ title: Open-source ain't free
 
 ## Why I'm really here
 
-+ Open-source resources
-+ [Masonry](http://masonry.desandro.com)
-+ [Isotope](http://isotope.metafizzy.co)
+Open-source resources
+
+### [Masonry](http://masonry.desandro.com)
+
+<iframe src="http://masonry.desandro.com/" allowTransparency="true"> </iframe>
+
+### [Isotope](http://isotope.metafizzy.co)
+
+
+<iframe src="http://isotope.metafizzy.co/" allowTransparency="true"> </iframe>
+
+
 + Nights & weekends
 + Not part of my day job
 
@@ -67,19 +76,23 @@ FREE
 
 People will make stuff
 
-## Side-projects
+## Incredible resources
 
 + Modernizr
 + HTML5 Boilerplate
 + Twitter Bootstrap
 
-Side-projects rule the web
-
 Most are free
 
 ## Culture of free
 
-+ Particular to front-end development
+Particular to front-end development
+
+### Costs no money to...
+
++ Learn
++ Use resources
++ Market your stuff
 
 ## Side projects are great!
 
@@ -95,6 +108,11 @@ Most are free
 + Linked by Andy Clarke
 + First save on Delicious by Jason Santa Maria 
 + Linked by Cameron Moll
++ Fireballed
++ Percolates in the web community
++ Picked up by WordPress themes, then Tumblr Themes
++ Becomes part of a toolset for the web
++ Used by Pinterest
 
 ## Happily ever after?
 

@@ -57,6 +57,12 @@ img {
   max-height: 100%;
 }
 
+iframe {
+  border: 0;
+  width: 94%;
+  min-height: 80%;
+}
+
 /* ---- #content ---- */
 
 #content {
