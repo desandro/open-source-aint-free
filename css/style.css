@@ -2,7 +2,7 @@ body {
   background: #FFF;
   color: #69E;
   font-family: 'jubilat', Clarendon LT Std, 'Hoefler Text', georgia, serif;
-  font-size: 44px;
+  font-size: 38px;
   line-height: 1.4;
   padding: 0;
   padding-bottom: 40%;
@@ -28,6 +28,10 @@ h2 {
   margin-top: 1.0em;
   border-top: 0.4em solid hsla( 180, 100%, 50%, 0.5 );
   padding-top: 0.5em;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
 }
 
 
@@ -58,7 +62,7 @@ img {
 }
 
 iframe {
-  border: 0;
+  border: 10px solid #DDD;
   width: 94%;
   min-height: 80%;
 }

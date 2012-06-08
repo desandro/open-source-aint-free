@@ -83,9 +83,7 @@ People will make stuff
 + HTML5 Boilerplate
 + Twitter Bootstrap
 
-Most are side-projects
-
-Side projects rule the web
+Side-projects
 
 ## Side projects are great!
 
@@ -114,32 +112,49 @@ Most are free
 ## Personal experience with Masonry
 
 + First released in 2008
-+ Linked by Andy Clarke
++ Linked by [Andy Clarke](http://www.stuffandnonsense.co.uk/blog/about/jquery_masonry/)
+
+<iframe src="http://www.stuffandnonsense.co.uk/blog/about/jquery_masonry/" allowTransparency="true"> </iframe>
+
 + First save on Delicious by Jason Santa Maria 
-+ Linked by Cameron Moll
-+ Fireballed
++ Linked by [Cameron Moll](http://cameronmoll.tumblr.com/post/550684068/jquery-masonry)
+
+<iframe src="http://cameronmoll.tumblr.com/post/550684068/jquery-masonry" allowTransparency="true"> </iframe>
+
++ [Fireballed](http://daringfireball.net/linked/2010/04/26/jquery-masonry)
+
+<iframe src="http://daringfireball.net/linked/2010/04/26/jquery-masonry" allowTransparency="true"> </iframe>
+
 + Percolates in the web community
-+ Picked up by WordPress themes, then Tumblr Themes
-+ Becomes part of a toolset for the web
-+ Used by Pinterest
++ Picked up by WordPress themes
++ ...then Tumblr Themes
++ Becomes part of the visual language of the web
++ Pinterest
+
+![Pinterest](img/pinterest.png)
+
+![rolling in the dough](img/rolling.jpg)
+
+
 
 ## Happily ever after?
 
-Beware novice users
++ Managing successful open-source resource
 
-They mean well
+## In come the support requests
 
-Contacting author possibly not a last resort
++ Novice users
++ Beware
++ They mean well
++ Contacting author possibly not a last resort
 
-If you trying to implement something, and you don't have the skills as a developer, what other ways can you resolve a problem?
+If you are trying to implement something, and you don't have the skills as a developer, what other ways can you resolve a problem?
 
 Contact an expert.
 
-Free as in time to do so
++ Free
 
-They mean well.
-
-"I just can't figure it out."
+_"I just can't figure it out."_
 
 ## Jerkface open-soure attitude
 
@@ -155,9 +170,9 @@ _you_ figure it out.
 + 40 minutes total
 + Issue resolved
 
-vs
+### vs.
 
-+ User takes up to 4 to Infinity hours to resolve issue
++ User takes up to 4-to-Infinity hours to resolve issue
 + Infinity hours total
 + Issue may not be resolved
 
@@ -205,12 +220,15 @@ $('#reading-lst').masonry('reload');
 
 {% highlight javascript %}
 
-var filterSelector = filterVal == 'All' ? '*' : '.' + filterVal;
-$('#reading-lst').isotope({ filter: filterSelector });
+$('#reading-lst').isotope({
+  filter: filterVal === 'All' ? '*' : '.' + filterVal
+});
 
 {% endhighlight %}
 
-[jasonsantamaria.com](http://jasonsantamaria.com/reading)
+[jasonsantamaria.com/reading](http://jasonsantamaria.com/reading)
+
+<iframe src="http://jasonsantamaria.com/reading" allowTransparency="true"> </iframe>
 
 ## Bad code propagates
 
@@ -241,6 +259,8 @@ But author will go CRAZY
 + Principles of scarcity
 + Availability of resources
 + There's only so many hours in the day
+
+### Cost
 
 ## How valuable is my time?
 
@@ -278,14 +298,14 @@ Users have to make a value judgement
 
 ## Commercial front-end dev pioneers
 
-+ [FancyZoom](http://www.cabel.name/2008/02/fancyzoom-10.html) by Panic
-+ [Wijmo](http://wijmo.com/)
+[FancyZoom](http://www.cabel.name/2008/02/fancyzoom-10.html) by Panic
+
+[Wijmo](http://wijmo.com/)
+
 + Plugins by [Nick Stakenburg](http://www.nickstakenburg.com/)
 + [Shadowbox.js](http://www.shadowbox-js.com/#license)
 + [Impact JS Game Engine](http://impactjs.com/)
 + [View.js](http://finegoodsmarket.com/view/) by Rogie King
-
-Compass by Chris Epstein
 
 ## Isotope
 
