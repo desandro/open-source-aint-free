@@ -129,10 +129,14 @@ function init() {
     document[ swap + 'EventListener' ]( 'keyup', handleKeyup, false );
   });
 
-  $('#font-size-adjuster').on( 'change', function() {
-    // console.log( this.value );
-    $('#content').css({ fontSize: this.value + 'px' });
-  });
+  var fontSize = parseInt( $body.css('font-size'), 10 );
+
+  $('#font-size-adjuster')
+    .val( fontSize )
+    .on( 'change', function() {
+      // console.log( this.value );
+      $('#content').css({ fontSize: this.value + 'px' });
+    });
 
 }
   
