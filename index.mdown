@@ -64,10 +64,11 @@ How great is web development _economically_?
 
 ## The value of _view-source_
 
-FREE
-
-## Free resources
-
++ Essential learning tool
++ View underlying elements
++ Universally available
++ Swift exchange of techniques
++ Identify > Isolate > Implement
 
 ## Economic environment for development
 
@@ -82,17 +83,9 @@ People will make stuff
 + HTML5 Boilerplate
 + Twitter Bootstrap
 
-Most are free
+Most are side-projects
 
-## Culture of free
-
-Particular to front-end development
-
-### Costs no money to...
-
-+ Learn
-+ Use resources
-+ Market your stuff
+Side projects rule the web
 
 ## Side projects are great!
 
@@ -101,6 +94,22 @@ Particular to front-end development
 + Market yourself
 + Build and promote your personal brand
 + Community gets another tool for its toolkit
+
+Most are free
+
+## Culture of free
+
++ Particular to front-end development
++ Because of view-source
++ No paywall
+
+### Costs no money to...
+
++ Learn
++ Use resources
++ Market your stuff
+
+
 
 ## Personal experience with Masonry
 
