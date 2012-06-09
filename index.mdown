@@ -7,11 +7,10 @@ title: Open-source ain't free
 
 # Open-source ain't free
 
+### I'm David DeSandro
+
 + Follow along: [bit.ly/openaintfree](http://bit.ly/openaintfree)
 + Tweet this sesh: _#vcon_ [@desandro](http://twitter.com/desandro)
-
-## I'm David DeSandro
-
 + Day job: Front-end developer at [nclud](http://nclud.com) in Washington DC
 + Soon to be at Twitter in NYC
 
@@ -105,7 +104,7 @@ Most are free
 + Use resources
 + Market your stuff
 
-
+_Ideal environment for the impulsively creative_
 
 ## Personal experience with Masonry
 
@@ -142,7 +141,7 @@ Most are free
 ## In come the support requests
 
 + Novice users
-+ Beware
++ (a small fraction of)
 + They mean well
 + Contacting author possibly not a last resort
 
@@ -160,8 +159,9 @@ It's open-source,
 
 _you_ figure it out.
 
+![deal with it](img/deal.gif)
 
-## Economics of contacting authors to resolve issue
+## Prolly not fair
 
 + User takes 10 minutes to email author
 + Takes author 30 minutes to resolve issue
@@ -186,8 +186,6 @@ The _dark side_ of view-source.
 + Author replies with "It's open source, _you_ figure it out"
 + User does figure it out!
 + Whose code is going to be better?
-+ Code supplied by the author?
-+ Code written by the user who figured it out?
 
 Sloppy code is okay
 
@@ -270,17 +268,13 @@ But author will go CRAZY
 + Build and promote your personal brand
 + Community gets another tool for its toolkit
 
-Why don't I put a price on this?
+_Why don't I put a price on this?_
 
 ## Putting a price on something
 
-Users have to make a value judgement
-
-+ Free -> costs their time
-+ Priced -> costs time and money
-+ Something "tangible"
-
-"Is it worth it?"
++ Users have to make a value judgement
++ Money is something "tangible"
++ "Is it worth it?"
 
 ## Other developers make money
 
@@ -298,7 +292,13 @@ Users have to make a value judgement
 
 [FancyZoom](http://www.cabel.name/2008/02/fancyzoom-10.html) by Panic
 
+<iframe src="http://www.cabel.name/2008/02/fancyzoom-10.html" allowTransparency="true"> </iframe>
+
+> In a bit of an experiment: if your website is commercial (i.e. makes you money), you can license FancyZoom for $39 per site, a one-time fee.
+
 [Wijmo](http://wijmo.com/)
+
+<iframe src="http://wijmo.com/widgets/" allowTransparency="true"> </iframe>
 
 + Plugins by [Nick Stakenburg](http://www.nickstakenburg.com/)
 + [Shadowbox.js](http://www.shadowbox-js.com/#license)
@@ -314,12 +314,12 @@ Users have to make a value judgement
 
 ### Like pouring magic sauce on your listed content
 
-## Isotope as the product
+## Isotope as a product
 
 + Still open-source
 + [Available on GitHub](http://github.com/desandro/isotope/)
 + Adopt the FancyZoom license model
-+ One time licensing fee to use Isotope in a commercial project
++ One time licensing fee to use Isotope in all your commercial projects
 
 ## Getting legit
 
@@ -327,7 +327,6 @@ Users have to make a value judgement
 + Flattr
 + Generic PayPal donation button
 + Donate to Modernizr
-
 
 
 ## Metafizzy
@@ -343,6 +342,9 @@ Users have to make a value judgement
 ## Logistics
 
 + [Pulley App](http://pulleyapp.com) by Big Cartel
+
+<iframe src="http://pulleyapp.com" allowTransparency="true"> </iframe>
+
 + Hooks into PayPal
 + Customer makes purchase
 + Customer receives an email with "product" attached
@@ -376,6 +378,12 @@ _May I also suggest [Quixly](http://quixly.com/)_
 + Impact on quality of life
 + At a cost of 20% of my working hours
 
+## Yay money
+
++ People want to be invested in the products and services they enjoy
++ Price allows non-technical users to contribute to the project
+
+
 ## Commercializing front-end dev
 
 + Not a silver bullet
@@ -386,16 +394,16 @@ _May I also suggest [Quixly](http://quixly.com/)_
 
 <iframe src="http://srobbin.com/contact/" allowTransparency="true"> </iframe>
 
-## Ponderings
+## Re-thinking role of front-end dev
 
-_Thinking about the big guys_
++ There is a huge market for commercial front-end dev
++ Free & open-source ideal doesn't scale
++ Economic deficit
 
-+ Modernizr
-+ HTML5 Boilerplate
-+ Twitter Bootstrap
+_There is nothing wrong about making money off of honest work._
 
 
-
+## Thank you!
 
 ## Offering Premium Support
 
@@ -431,16 +439,6 @@ _Thinking about the big guys_
 
 
 
-## Making money as an open-source developer
-
-+ Feels _sleazy_
-+ 
-
-open-source != free
-
-
-
-Compass maintained by Chris Epstein, donationware
 
 ## PayPal
 
@@ -448,42 +446,11 @@ Compass maintained by Chris Epstein, donationware
 + Blocks IPs from some countries in the Mid-East
 
 
-## Post-talk disclaimer
-
-+ 
-
-
-
-## Paying for books
-
-<div class="two-col clearfix">
-  <div class="col">
-    <h3>College</h3>
-    <ul>
-      <li>$300 per semester</li>
-      <li>8 semesters</li>
-      <li>$2400 total</li>
-    </ul>
-  </div>
-  <div class="col">
-    <h3>Web</h3>
-    <ul>
-      <li>$0</li>
-    </ul>
-  </div>
-</div>
 
 
 
 
-## etc
 
-Price allows non-technical users to contribute to the project
 
-People want to be invested in the products and services they enjoy
 
-orkposters
 
-### Laissez-faire open-source attitude
-
-"Hey, it's open-source. _You_ fix it."
