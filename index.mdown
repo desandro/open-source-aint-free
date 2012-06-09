@@ -10,8 +10,6 @@ title: Open-source ain't free
 + Follow along: [bit.ly/openaintfree](http://bit.ly/openaintfree)
 + Tweet this sesh: _#vcon_ [@desandro](http://twitter.com/desandro)
 
-## Thanks Drew
-
 ## I'm David DeSandro
 
 + Day job: Front-end developer at [nclud](http://nclud.com) in Washington DC
@@ -291,9 +289,9 @@ Users have to make a value judgement
 + [Expression Engine Commercial Add-ons](http://devot-ee.com/add-ons/store)
 + [Icon](http://geomicons.com/) [packs](http://pictos.cc/)
 
-## Where's the market for front-end dev resources?
+## Market for front-end dev resources?
 
-+ Never prevent people from "stealing"
++ Never be able to prevent people from "stealing"
 + Because of _view-source_
 
 ## Commercial front-end dev pioneers
@@ -314,13 +312,13 @@ Users have to make a value judgement
 + Intelligent layouts like Masonry
 + Serious progressive enhancement
 
-Like pouring magic sauce on your listed content
+### Like pouring magic sauce on your listed content
 
 ## Isotope as the product
 
 + Still open-source
 + [Available on GitHub](http://github.com/desandro/isotope/)
-+ Adopt the FancyZoom license
++ Adopt the FancyZoom license model
 + One time licensing fee to use Isotope in a commercial project
 
 ## Getting legit
@@ -330,82 +328,83 @@ Like pouring magic sauce on your listed content
 + Generic PayPal donation button
 + Donate to Modernizr
 
-Formed a company
+
 
 ## Metafizzy
 
 + Proper legal entity
-+ Super simple: filled out two forms
 + employers at nclud were okay with it
-+ Metafizzy LLC
 + Legit company
 + What do companies do?
 + Make money
+
+<iframe src="http://metafizzy.co" allowTransparency="true"> </iframe>
 
 ## Logistics
 
 + [Pulley App](http://pulleyapp.com) by Big Cartel
 + Hooks into PayPal
 + Customer makes purchase
-+ Customer receives an email with product attached
++ Customer receives an email with "product" attached
+
+_May I also suggest [Quixly](http://quixly.com/)_
+
+### With Isotope
+
++ All product (script, demos, documentation) is open-source, readily available
++ No IP exchange
++ Will this work?
+
+## As a commercial enterprise
+
++ Beholden to paying customers
++ Can't rely on Laissez-faire open-source attitude
++ Sleazy?
++ Going against the open-source ideal
 
 ## All the pieces
 
 + Product: Isotope
 + Distrubution: Pulley App
 + Legal: Metafizzy
++ Opened at $37 a license, now at $25
+
+## Results
+
++ Selling Isotope made up 25% income in 2011
++ Able to pay off car loan and student loan
++ Impact on quality of life
++ At a cost of 20% of my working hours
+
+## Commercializing front-end dev
+
++ Not a silver bullet
++ Are support emails bugging you?
++ Think about it
+
+### Scott Robbin
+
+<iframe src="http://srobbin.com/contact/" allowTransparency="true"> </iframe>
+
+## Ponderings
+
+_Thinking about the big guys_
+
++ Modernizr
++ HTML5 Boilerplate
++ Twitter Bootstrap
 
 
 
-
-
-
-
-
-
-
-## As a commercial enterprise
-
-+ Legally exposed?
-+ Beholden to paying customers
-+ Can't rely on Laissez-faire open-source attitude
-
-
-## PayPal
-
-+ Not friendly across the globe
-+ Blocks IPs from some countries in the Mid-East
 
 ## Offering Premium Support
 
-+ I get $17
++ Costs $17
 + Customer gets to email me
-+ 
-
-+ Behing 
-
 + Those who needed support
 + Competent developers figure it out
-
 + Those who used support didn't just need Isotope support
 + They needed lower level help with JavaScript
-
-
-## Pricing
-
-+ Isotope released at $37
-+ Fair price?
-+ iOS >$1 = 'pricey'
-
-TODO Dark Sky app
-
-+ But...
-+ Contract developer for this = $1,000's
-
-WordPress premium theme
-icon set price
-wijmo
-mint
 
 
 ## How much is this worth?
@@ -415,13 +414,21 @@ mint
 + $4,032 estimated
 
 
+## Pricing
+
++ Isotope released at $37
++ Fair price?
++ iOS >$1 = 'pricey'
++ Dark Sky app
++ But...
++ Contract developer for this = $1,000's
 
 
-## Results
 
-+ Selling Isotope made up 25% income in 2011
-+ Able to pay off car loan and student loan
-+ Impact on my quality of life
+
+
+
+
 
 
 ## Making money as an open-source developer
@@ -433,13 +440,13 @@ open-source != free
 
 
 
-## 
-
-+ Flattr
-+ GitHub Donate button
-+ PayPal donation
-
 Compass maintained by Chris Epstein, donationware
+
+## PayPal
+
++ Not friendly across the globe
++ Blocks IPs from some countries in the Mid-East
+
 
 ## Post-talk disclaimer
 
