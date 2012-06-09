@@ -149,9 +149,8 @@ If you are trying to implement something, and you don't have the skills as a dev
 
 Contact an expert.
 
-+ Free
-
-_"I just can't figure it out."_
++ Free to do so
++ "I tried X. I tried Y. _I just can't figure it out_."
 
 ## Jerkface open-soure attitude
 
@@ -186,10 +185,8 @@ The _dark side_ of view-source.
 + Author replies with "It's open source, _you_ figure it out"
 + User does figure it out!
 + Whose code is going to be better?
-
-Sloppy code is okay
-
-...unless it spreads
++ Sloppy code is okay
++ ...unless it spreads
 
 ## Filtering code example
 
@@ -312,12 +309,12 @@ _Why don't I put a price on this?_
 + Intelligent layouts like Masonry
 + Serious progressive enhancement
 
-### Like pouring magic sauce on your listed content
+_Like pouring magic sauce on your listed content_
 
 ## Isotope as a product
 
 + Still open-source
-+ [Available on GitHub](http://github.com/desandro/isotope/)
++ [Available on GitHub](https://github.com/desandro/isotope/)
 + Adopt the FancyZoom license model
 + One time licensing fee to use Isotope in all your commercial projects
 
@@ -330,6 +327,8 @@ _Why don't I put a price on this?_
 
 
 ## Metafizzy
+
+![Metafizzy](img/metafizzy.svg)
 
 + Proper legal entity
 + employers at nclud were okay with it
@@ -355,7 +354,7 @@ _May I also suggest [Quixly](http://quixly.com/)_
 
 + All product (script, demos, documentation) is open-source, readily available
 + No IP exchange
-+ Will this work?
++ Vapor-product?
 
 ## As a commercial enterprise
 
