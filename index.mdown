@@ -10,9 +10,7 @@ title: Open-source ain't free
 ### I'm David DeSandro
 
 + Follow along: [bit.ly/openaintfree](http://bit.ly/openaintfree)
-+ Tweet this sesh: _#vcon_ [@desandro](http://twitter.com/desandro)
-+ Day job: Front-end developer at [nclud](http://nclud.com) in Washington DC
-+ Soon to be at Twitter in NYC
++ Day job: Designer at Twitter
 
 ## Why I'm really here
 
@@ -177,61 +175,7 @@ Individually, each request is managable.
 
 But they begin to pile up.
 
-## Propagation of bad code
-
-The _dark side_ of view-source.
-
-+ User contacts author
-+ Author replies with "It's open source, _you_ figure it out"
-+ User does figure it out!
-+ Whose code is going to be better?
-+ Sloppy code is okay
-+ ...unless it spreads
-
-## Filtering code example
-
-### Masonry
-
-{% highlight javascript %}
-
-if ( filterVal == 'All' ) {
-  $('.hidden').fadeIn('slow').removeClass('hidden');
-} else {
-  $('.reading-bug').each(function() {
-    if ( !$(this).hasClass(filterVal) ) {
-      $(this).fadeOut('normal').addClass('hidden');
-    } else {
-      $(this).fadeIn('slow').removeClass('hidden');
-    }
-  });
-}
-$('#reading-lst').masonry('reload');
-
-{% endhighlight %}
-
-### Isotope
-
-{% highlight javascript %}
-
-$('#reading-lst').isotope({
-  filter: filterVal === 'All' ? '*' : '.' + filterVal
-});
-
-{% endhighlight %}
-
-[jasonsantamaria.com/reading](http://jasonsantamaria.com/reading)
-
-<iframe src="http://jasonsantamaria.com/reading" allowTransparency="true"> </iframe>
-
-## Bad code propagates
-
-Author has an interest in providing good code everywhere
-
-Thus, author should help novice users
-
-But author will go CRAZY
-
-(Helping novice users doesn't scale)
+Helping novice users doesn't scale
 
 ## Managing a successful project
 
@@ -278,7 +222,7 @@ _Why don't I put a price on this?_
 + iOS App Store
 + WordPress premium themes
 + [Expression Engine Commercial Add-ons](http://devot-ee.com/add-ons/store)
-+ [Icon](http://geomicons.com/) [packs](http://pictos.cc/)
++ Icon packs like [Geomicons](http://geomicons.com/) and [Pictos](http://pictos.cc/)
 
 ## Market for front-end dev resources?
 
@@ -323,8 +267,7 @@ _Like pouring magic sauce on your listed content_
 + GitHub donation
 + Flattr
 + Generic PayPal donation button
-+ Donate to Modernizr
-
++ Donate to [Modernizr](http://modernizr.com)
 
 ## Metafizzy
 
@@ -345,8 +288,6 @@ _Like pouring magic sauce on your listed content_
 + Hooks into PayPal
 + Customer makes purchase
 + Customer receives an email with "product" attached
-
-_May I also suggest [Quixly](http://quixly.com/)_
 
 ### With Isotope
 
