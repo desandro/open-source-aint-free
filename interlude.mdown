@@ -1,0 +1,30 @@
+At this point, I'd like to take a brief interlude.
+
+If you've looked at the printed materials for this conference, you might have noticed that I'm giving a different talk than the one I originally intended. I will not be presenting _Keep it simple smartypants_ today. I apologize for switching things up. But I have a good reason.
+
+That 
+
+
+<!-- It was mostly bullshit. -->
+
+I would be presenting a personal preference. No real, solid evidence or 
+
+Today's subject matter is just the opposite. This is something I care about. This is something I want to share. This is something I believe in.
+
+I see our profession, that of front-end development, as a variation of engineering. True, the output of our efforts can result in exquisite and inspiring experience %% for example as seen here in this WebGL demo %%. But the majority of our work deals with technical skills. For the most part, we are just typing characters into text editors.
+
+Because of this condition, because we spend more time dealing with code than we do with our emotions, we can become disconnected.
+
+This is why I changed my talk for today. The other presentation was disconnected.
+
+---
+
+We are approaching a turning point for our community, the makers of the web. We have become very good at making things. No longer are we placing bricks on top of bricks, one by one. But we can erect whole factories that produce mansion-making robots. The tools we make now are making other tools, and so on and so forth.  We are quickly approaching a point, where our ambitions will not limited by technical obstacles and barriers of our technology. Our ambitions will only be guided by our own spirit and core beliefs.
+
+And so I ask you: What do you believe in? What are you about?
+
+You do not need to have an answer. I certainly have not perfectly crystalized my own. But it time for us to start thinking about these bigger questions.
+
+
+
+
