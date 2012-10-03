@@ -12,9 +12,7 @@ title: Open-source ain't free
 + Follow along: [bit.ly/openaintfree](http://bit.ly/openaintfree)
 + Day job: Designer at Twitter
 
-## Why I'm really here
-
-Open-source resources
+## Open-source resources
 
 ### [Masonry](http://masonry.desandro.com)
 
@@ -76,7 +74,7 @@ People will make stuff
 
 + Modernizr
 + HTML5 Boilerplate
-+ Twitter Bootstrap
++ Bootstrap
 
 Side-projects
 
@@ -135,54 +133,17 @@ _Ideal environment for the impulsively creative_
 ## Happily ever after?
 
 + Managing successful open-source resource
++ Emails for support requests
++ Issues and pull-requests being added on GitHub
++ Stack Overflow
++ Tweets
 
-## In come the support requests
-
-+ Novice users
-+ (a small fraction of)
-+ They mean well
-+ Contacting author possibly not a last resort
-
-If you are trying to implement something, and you don't have the skills as a developer, what other ways can you resolve a problem?
-
-Contact an expert.
-
-+ Free to do so
-+ "I tried X. I tried Y. _I just can't figure it out_."
 
 ## Jerkface open-soure attitude
 
 It's open-source,
 
-_you_ figure it out.
-
-![deal with it](img/deal.gif)
-
-## Prolly not fair
-
-+ User takes 10 minutes to email author
-+ Takes author 30 minutes to resolve issue
-+ 40 minutes total
-+ Issue resolved
-
-### vs.
-
-+ User takes up to 4-to-Infinity hours to resolve issue
-+ Infinity hours total
-+ Issue may not be resolved
-
-Individually, each request is managable.
-
-But they begin to pile up.
-
-Helping novice users doesn't scale
-
-## Managing a successful project
-
-+ Emails for support requests
-+ Issues and pull-requests being added on GitHub
-+ Stack Overflow
-+ Tweets
+[_you_ figure it out.](img/deal.gif)
 
 ### Managing Masonry
 
@@ -217,7 +178,7 @@ _Why don't I put a price on this?_
 + Money is something "tangible"
 + "Is it worth it?"
 
-## Other developers make money
+## Other designers and developers make money
 
 + iOS App Store
 + WordPress premium themes
@@ -271,13 +232,13 @@ _Like pouring magic sauce on your listed content_
 
 ## Metafizzy
 
+![Metafizzy](img/metafizzy.png)
+
 + Proper legal entity
 + employers at nclud were okay with it
 + Legit company
 + What do companies do?
 + Make money
-
-<iframe src="http://metafizzy.co" allowTransparency="true"> </iframe>
 
 ## Logistics
 
@@ -343,9 +304,11 @@ _There is nothing wrong about making money off of honest work._
 
 ## Thank you!
 
+## Leftover notes...
+
 ## Offering Premium Support
 
-+ Costs $17
++ Priced at $17
 + Customer gets to email me
 + Those who needed support
 + Competent developers figure it out
@@ -369,26 +332,7 @@ _There is nothing wrong about making money off of honest work._
 + But...
 + Contract developer for this = $1,000's
 
-
-
-
-
-
-
-
-
-
 ## PayPal
 
 + Not friendly across the globe
 + Blocks IPs from some countries in the Mid-East
-
-
-
-
-
-
-
-
-
-
