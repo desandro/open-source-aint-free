@@ -9,6 +9,7 @@ title: Open-source ain't free
 
 ### I'm David DeSandro
 
++ [@desandro](http://twitter.com/desandro)
 + Follow along: [bit.ly/openaintfree](http://bit.ly/openaintfree)
 + Designer at Twitter
 
@@ -27,18 +28,24 @@ title: Open-source ain't free
 + Scarcity of resources
 + Economics
 
-## The value of _view-source_
+## View source
 
-+ Essential learning tool
-+ View underlying elements
++ Like breathing, an invisible act
 + Universally available
-+ Swift exchange of techniques
-+ Identify > Isolate > Implement
+
+%% watch parts %%
+
+%% lots of watches %%
+
+Free, as in money
 
 ## Economic environment for development
 
-+ Free as in money
-+ Resources readily available
++ Low barrier for entry
+
++ An incredible environment
++ creative
++ curious
 
 People will make stuff
 
@@ -81,7 +88,6 @@ _Ideal environment for the impulsively creative_
 
 <iframe src="http://www.stuffandnonsense.co.uk/blog/about/jquery_masonry/" allowTransparency="true"> </iframe>
 
-+ First save on Delicious by Jason Santa Maria 
 + Linked by [Cameron Moll](http://cameronmoll.tumblr.com/post/550684068/jquery-masonry)
 
 <iframe src="http://cameronmoll.tumblr.com/post/550684068/jquery-masonry" allowTransparency="true"> </iframe>
@@ -110,12 +116,16 @@ _Ideal environment for the impulsively creative_
 + Stack Overflow
 + Tweets
 
+## Support requests
 
-## Jerkface open-soure attitude
+## Jerkface open-source attitude
 
 It's open-source,
 
 [_you_ figure it out.](img/deal.gif)
+
+
+![deal](img/deal.gif)
 
 ### Managing Masonry
 
@@ -188,7 +198,7 @@ _Why don't I put a price on this?_
 
 _Like pouring magic sauce on your listed content_
 
-## Isotope as a product
+## Product
 
 + Still open-source
 + [Available on GitHub](https://github.com/desandro/isotope/)
@@ -227,6 +237,10 @@ _Like pouring magic sauce on your listed content_
 + All product (script, demos, documentation) is open-source, readily available
 + No IP exchange
 + Vapor-product?
+
+%% Bermuda pic %%
+
+%% Honor system book store %%
 
 ## As a commercial enterprise
 

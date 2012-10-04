@@ -24,8 +24,6 @@ But you just don't get _one_ watch, some used-up piece of junk that doesn't even
 
 Now even more amazing, is the fact that _view source_, this incredible pocket-watch x-ray vision technology, is free and widely available. It's a feature of every browser dating back to classical age of the Web. Any desktop Web user already has access to it.
 
-View Source is an incredible tool for self-education. Anyone who is interested can leverage view source, and learn as much as they want. I imagine this speaks for a lot of in this room, most of us are self-educated when it comes to our jobs as front-end developers.
-
 Consider the economic reprecusions of such a platform. View source is free as in money
 
 ##
