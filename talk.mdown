@@ -11,3 +11,65 @@ When it comes to trade education resources, Viewable source code is perhaps the 
 
 
 View source continues
+
+## View source
+
+When it comes to front-end development, I can think of no better feature to the craft than _view source_. We all view source every day in our jobs and personal projects -- so much so that its use is just integrated as _what web designers do_. It's like breathing -- an invisible act. So I'd like to contemplate it for a bit at the start here.
+
+When any web designer is first starting out. They learn about HTML, and the syntax, opening and closing brackets, and perhaps a bit about semantic markup. And this is typical of learning any new coding platform. But what makes front-end development special, is that the code we produce is always viewable. Meaning, you can look at any page, and discover how a portion of that page was made. Anything that you experience on that page can be inspected behind the scenes.
+
+It's like opening up a watch, and discovering all the gears and springs inside.
+
+But you just don't get _one_ watch, some used-up piece of junk that doesn't even tick anymore. You can open up any watch on any wrist, while it's ticking away.
+
+Now even more amazing, is the fact that _view source_, this incredible pocket-watch x-ray vision technology, is free and widely available. It's a feature of every browser dating back to classical age of the Web. Any desktop Web user already has access to it.
+
+View Source is an incredible tool for self-education. Anyone who is interested can leverage view source, and learn as much as they want. I imagine this speaks for a lot of in this room, most of us are self-educated when it comes to our jobs as front-end developers.
+
+Consider the economic reprecusions of such a platform. View source is free as in money
+
+##
+
+View Source is not
+
+
+
+what it means economically for the web design profession
+
+
+
+
+---
+
+Isotope is a good product. It's not perfect, but it's good.
+
+But the business model completely depends on the honor system.
+
+- Is this fair to my customers? 
+
+Bermuda beach rental
+
+---
+
+I'm sharing all of this, not because I think Isotope is great and I want you to buy it. I think this is a good idea. There is something of worth to it. And so I'm asking you, if you're interested, consider taking this idea - of getting paid for a front-end development resource - and fork it.
+
+
+---
+
+
+## Open-source resources
+
+### [Masonry](http://masonry.desandro.com)
+
+<iframe src="http://masonry.desandro.com/" allowTransparency="true"> </iframe>
+
+### [Isotope](http://isotope.metafizzy.co)
+
+
+<iframe src="http://isotope.metafizzy.co/" allowTransparency="true"> </iframe>
+
+
++ Nights & weekends
++ Not part of my day job
+
+

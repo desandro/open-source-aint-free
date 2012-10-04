@@ -10,22 +10,7 @@ title: Open-source ain't free
 ### I'm David DeSandro
 
 + Follow along: [bit.ly/openaintfree](http://bit.ly/openaintfree)
-+ Day job: Designer at Twitter
-
-## Open-source resources
-
-### [Masonry](http://masonry.desandro.com)
-
-<iframe src="http://masonry.desandro.com/" allowTransparency="true"> </iframe>
-
-### [Isotope](http://isotope.metafizzy.co)
-
-
-<iframe src="http://isotope.metafizzy.co/" allowTransparency="true"> </iframe>
-
-
-+ Nights & weekends
-+ Not part of my day job
++ Designer at Twitter
 
 ## Today's subject(s)
 
@@ -41,19 +26,6 @@ title: Open-source ain't free
 + Time
 + Scarcity of resources
 + Economics
-
-
-
-## Seriously, people...
-
-How great is web development?
-
-+ _Web Classic_
-+ HTML
-+ CSS
-+ JavaScript
-
-How great is web development _economically_?
 
 ## The value of _view-source_
 
