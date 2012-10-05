@@ -1,6 +1,6 @@
 body {
-  background: #FFF;
-  color: #288;
+  background: black;
+  color: #FEA;
   font-family: 'jubilat', 'Chaparral Pro', georgia, serif;
   font-size: 18px;
   line-height: 1.4;
@@ -26,7 +26,7 @@ h1 {
 
 h2 {
   margin-top: 1.0em;
-  border-top: 0.4em solid hsla( 170, 80%, 50%, 0.5 );
+  border-top: 0.2em solid hsla( 50, 100%, 80%, 0.5 );
   padding-top: 0.5em;
 }
 
@@ -45,14 +45,15 @@ li {
 }
 
 a {
-  color: #05C;
+  color: #F30;
   text-decoration: none;
   border-bottom: 0.08em solid;
 }
 
 a:hover {
-  color: #F90;
+  color: #0AF;
 }
+.preso-item.current a:hover { color: #0AF; }
 
 img {
   display: block;
@@ -65,6 +66,7 @@ iframe {
   border: 10px solid #DDD;
   width: 94%;
   min-height: 80%;
+  background: white;
 }
 
 /* ---- #content ---- */
@@ -92,8 +94,12 @@ iframe {
 
 /* ---- preso ---- */
 
+.preso-enabled .preso-item {
+  opacity: 0.5;
+}
+
 .preso-item,
-.directions {;
+.directions {
   -webkit-transition: -webkit-transform, opacity;
      -moz-transition:    -moz-transform, opacity;
       -ms-transition:     -ms-transform, opacity;
@@ -122,12 +128,9 @@ html:not(.preso-enabled) .directions {
           transform: scaleY(0.01) scaleX(2);
 */}
 
-.preso-item.current,
-.preso-item.current a {
-  color: #133;
+.preso-item.current {
+  opacity: 1;
 }
-
-.preso-item.current a:hover { color: #F33; }
 
 /* ---- options ---- */
 
