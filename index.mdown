@@ -35,9 +35,11 @@ title: Open-source ain't free
 + Essential learning tool
 + Universally available
 
-%% watch parts %%
+![single watch](img/single-watch.jpg)
 
-%% lots of watches %%
+![watch parts](img/watch-parts.jpg)
+
+![watches](img/watches.jpg)
 
 Free, as in money
 
